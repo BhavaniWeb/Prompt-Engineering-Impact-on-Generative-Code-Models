@@ -1,4 +1,4 @@
-#Prompt Engineering Impact on Generative Code Models
+# Prompt Engineering Impact on Generative Code Models
 
 ## Project Overview
 This project presents a benchmarking framework designed to analyze how different prompt engineering strategies influence the performance and behavior of generative code models. The system reads programming problem definitions from JSON files and evaluates multiple prompting techniques—such as zero-shot, few-shot, chain-of-thought, persona, and template prompts—by generating two key performance metrics for each model–strategy combination. Through these comparisons, the project demonstrates that different prompts are effective for different types of problems, offering insights that help improve the accuracy, speed, and overall reliability of AI-assisted programming by guiding better prompt selection for each task.
